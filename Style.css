@@ -1,0 +1,218 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.top{
+    background-color: #34495E;
+    padding: 8px;
+}
+
+
+
+.top p{
+    color: #F0F3F4;
+    margin-left: 11%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.shop{
+    color: orange;
+    margin-right: 10%;
+    text-decoration: none;
+}
+
+
+
+
+
+.link a{
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+
+
+.cart{
+    margin-left: 17%;
+}
+
+
+.logo_wrapper p{
+    display: inline;
+}
+
+
+.logo_wrapper h1{
+    display: inline;
+    color: orange;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 1500;
+    font-size: 35px;
+}
+
+
+.logo_wrapper{
+    margin-left: 12%;
+
+}
+
+
+
+.logo{
+    padding-top: 8px;
+    padding-bottom: 16px;
+    background-color: white;
+}
+
+
+.logo_wrapper p{
+    font-weight: 500;
+}
+
+
+.box{
+    padding: 20px;
+    border: 1px solid orange;
+}
+
+
+
+#searchbar{
+    padding: 7px;
+    border: 1px solid orange;
+    border-radius: 5px;
+}
+
+
+.searhicon{
+    padding: 4px;
+    background-color: orange;
+    border: 2px solid orange;
+    color: white;
+    border-radius: 7px;
+}
+
+
+.navbar ul li{
+    list-style-type: none;
+}
+
+
+.navbar ul li a{
+    text-decoration: none;
+    float: left;
+    color: white;
+    font-weight: bold;
+    padding: 5x;
+    margin-left: 30px;
+}
+
+
+.navbar{
+    padding-top:10px;
+    padding-bottom: 25px;
+    background-color: orange;
+}
+
+
+.navbar ul{
+    margin-left: 28%;
+}
+
+
+img{
+    width: 100%;
+    height: 10%;
+
+}
+
+
+.slider{
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: 45px;
+    font-weight: bold;
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.centered{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.slider p{
+    font-size: 20px;
+    font-weight: normal;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+
+.offer{
+
+    text-align: center;
+    padding: 20px;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+.allbtn{
+    text-align: center;
+    margin-bottom: 20px;
+     
+}
+
+
+
+.allbtn a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+
+.but{
+    padding:10px;
+    background-color: orange;
+
+    border: 1px solid orange;
+    margin-right: 33px;
+    padding-left: 40px; 
+    padding-right: 40px; 
+
+}
+
+.but2{
+    padding: 10px;
+    background-color: white;
+    border: 2px solid rgb(209, 214, 209);
+    padding-left: 40px; 
+    padding-right: 40px;
+}
+
+
+.but2 a{
+    color: black;
+    font-weight: bold;
+}
+
+
+.conatiner{
+    margin-top: 5px;
+}
